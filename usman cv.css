@@ -1,0 +1,38 @@
+.head{
+    height: 100%;
+    width: 230px;
+    background-color: #f0f0f0;
+}
+h3{
+    margin: 0%;
+    padding: 0px%;
+    align-items: normal;
+    color: cadetblue;
+}
+h3,ul{
+    text-align: justify;
+}
+.body
+{
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+}
+h1{
+    text-align: center;
+}
+h5{
+    text-align: center;
+    color: cadetblue;
+}
+p{
+    text-align: justify;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 40px;
+    font-size: large;
+    word-spacing: 5px;
+}
+h2{
+    text-align: center;
+    color: cadetblue;}
